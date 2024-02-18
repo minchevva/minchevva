@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zlatomila Mincheva</h1>
 <h3 align="center">Software engineering student at Plovdiv University | Java wizard</h3>
-<img align="right" alt="Coding" width="400" src="Coding Customizable Isometric Illustrations _ Amico Style"
+<img align="right" alt="Coding" width="400" src="Coding Customizable Isometric Illustrations _ Amico Style">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchevva&label=Profile%20views&color=0e75b6&style=flat" alt="minchevva" /> </p>
 
