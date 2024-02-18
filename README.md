@@ -1,5 +1,6 @@
 <h1 align="center">Hi 🍀, I'm Zlatomila Mincheva</h1>
-<h3 align="center">Software engineering student at Plovdiv University | Java wizard</h3>
+<h3 align="center">☕Java wizard☕</h3>
+<h3 align="center">💻Software engineering student at Plovdiv University | SoftUni💻></h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchevva&label=Profile%20views&color=0e75b6&style=flat" alt="minchevva" /> </p>
