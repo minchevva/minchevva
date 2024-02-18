@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zlatomila Mincheva</h1>
+<h1 align="center">Hi 🍀, I'm Zlatomila Mincheva</h1>
 <h3 align="center">Software engineering student at Plovdiv University | Java wizard</h3>
-<img align="right" alt="Coding" width="400" src="Coding Customizable Isometric Illustrations _ Amico Style">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&chips=q:animated+coding+gif,online_chips:github:xm5HS98ahrk%3D&rlz=1C1GCEA_enBG1010BG1010&hl=bg&sa=X&ved=2ahUKEwjirp2Q-LSEAxX5nP0HHc3nBhwQ4lYoAnoECAEQOA&biw=1519&bih=697#imgrc=hG9Wqf67TP1hgM&imgdii=tkD88475CNPNmM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchevva&label=Profile%20views&color=0e75b6&style=flat" alt="minchevva" /> </p>
 
@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minchevva&show_icons=true&locale=en&layout=compact" alt="minchevva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minchevva&show_icons=true&locale=en" alt="minchevva" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minchevva&" alt="minchevva" /></p>
