@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🍀, I'm Zlatomila Mincheva</h1>
 <h3 align="center">Software engineering student at Plovdiv University | Java wizard</h3>
-<img align="right" alt="Coding" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&chips=q:animated+coding+gif,online_chips:github:xm5HS98ahrk%3D&rlz=1C1GCEA_enBG1010BG1010&hl=bg&sa=X&ved=2ahUKEwjirp2Q-LSEAxX5nP0HHc3nBhwQ4lYoAnoECAEQOA&biw=1519&bih=697#imgrc=hG9Wqf67TP1hgM&imgdii=tkD88475CNPNmM">
+<img align="right"  src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&chips=q:animated+coding+gif,online_chips:github:xm5HS98ahrk%3D&rlz=1C1GCEA_enBG1010BG1010&hl=bg&sa=X&ved=2ahUKEwjirp2Q-LSEAxX5nP0HHc3nBhwQ4lYoAnoECAEQOA&biw=1519&bih=697#imgrc=hG9Wqf67TP1hgM&imgdii=tkD88475CNPNmM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchevva&label=Profile%20views&color=0e75b6&style=flat" alt="minchevva" /> </p>
 
