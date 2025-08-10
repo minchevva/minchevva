@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🍀, I'm Zlatomila Mincheva</h1>
 <h3 align="center">⛓️‍💥Software Engineer | Specialized in Architectures</h3>
-<h3>✨Faculty of Mathematics and Informatics | PU </h3>
-<h3>👩‍🏫Shelly courses SoftUni | IoT systems </h3>
+<h3 align="center">✨Faculty of Mathematics and Informatics | PU </h3>
+<h3 align="center">👩‍🏫Shelly courses SoftUni | IoT systems </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=minchevva&label=Profile%20views&color=0e75b6&style=flat" alt="minchevva" />
